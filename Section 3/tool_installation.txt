@@ -1,0 +1,4 @@
+Installation for Required Tools : 
+	1). Java : Runtime Environment for Metabase & MySQL.
+	2). Metabase and 
+	3). MySQL

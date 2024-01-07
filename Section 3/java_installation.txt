@@ -1,0 +1,10 @@
+-- java installation --
+https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
+
+first, we need to check the whether our computer or laptop has Java installed. This is very easy, just type command in the search bar and click the command prompt. 
+you will see a black window popping out. Then, type java dash version. if you see java is not recognize, this means java is not installed in your machine. 
+Or if you see your java version is less than version ten, we need to upgrade our java version.
+this is very simple. let's go to google and search for JRE 17.
+By the way, JRE stands for java runtime environment. Then, we choose the Java SE from Oracle to download our java software. Java SE stands for java standard edition. 
+Okay, let's choose the one that suits our machine. Since I am using window operating system now, let's download the window 64 version installer. Click the link and wait for the download to complete.
+once the download is complete, open up our download folder. You will see a JDK seventeen software which stands for java development kit. Double click the downloaded Java software and run it. 

@@ -1,0 +1,6 @@
+select area_sqft, max(transacted_price_dollar) as max_transacted_dollar
+from upload_property_transaction
+group by area_sqft
+order by area_sqft asc
+
+

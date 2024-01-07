@@ -1,0 +1,3 @@
+SELECT FirstName, LastName, Department
+FROM employees
+WHERE Department IN ('IT', 'Sales');

@@ -1,0 +1,6 @@
+select area_sqft, AVG(transacted_price_dollar) as average_transacted_dollar
+from upload_property_transaction
+group by area_sqft
+order by area_sqft asc
+
+

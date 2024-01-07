@@ -1,0 +1,7 @@
+String Functions : 
+
+1). substring_index : substring_index(text,delimiter,number)
+	here, text : the string that we want to process.
+		  delimiter : the stopping character
+		  number : the count of the stopping character
+

@@ -1,0 +1,26 @@
+-- mysql installation -- 
+-- https://dev.mysql.com/downloads/installer/
+Again, let's go to google and search for install my sequel windows. choose the download my sequel installer. 
+Then, we can download the lastest version. There are 2 version for downloading. choose the one with the bigger size. You will be redirected to mySQL community downloads. I click, just start my download and wait for the downloading process to complete.
+Okay, once the software is downloaded, we can go to the downloaded folder. double click the mySQL installer to start the installation. For this installation, there are few options, please follow me closely. 
+First, let's choose the setup type. We can choose the full setup. Then click next and click execute. Wait for the installation to run. this will take for a while. So, Let's have a walk and come back later. 
+Once it is finish running, click the next button. For type and networking, leave as default. Click the next button For the authetication method, choose the use legacy authentication method. 
+This is very important. Must set to this. Otherwise you will have extra complicated steps to connect to meta base.
+For the password. you can put an easy one for now because this is locally used. I put 1234. I know this is not right. But, I want to transfer knowledge to you first. So, let's start every thing with simple steps.
+Don't need to add user. we will use the root account for now. click next and reach window service. leave every thing as default. 
+Click next again and reach server file permissions. leave every thing as default as well. Click execute to apply the configuration.
+Click finish and we will be linked to Product configuration. Click next and leave everything as default. Then click finish and click next. 
+To connect to server, pass in the password that we put it earlier. my one is one two three four. 
+Okay, my connection is success. click next and click execute to apply configuration. 
+Click finish when every thing is ready. 
+Click next and the installation is complete. Click finish and the mysql workbench will be lauched. 
+Close the mysql shell command prompt. we are not using this by now. What we want to use is the mysql workbench. 
+Click the mysql connection, pass in the password. 1234 for my case. and we have connected our database server. 
+let's open a clean work space by clicking the file icon on the top left. we can type in show databases. 
+select the show databases, then press control and enter to run the command. when you see the list show below, we are connected to database. 
+you can play with it by typing use my sequel to access the my sequel database. and type show tables to list down the tables in the database. 
+But, we want to focus on creating a new database so that our metabase can connect to my database server. 
+let's open a new clean workplace by clicking the file icon on the top left. 
+type in this command, create database metabase. select the command, press control key and enter.
+then, we can run show databases to verify whether our database is created or not. 
+Okay, our database is created. 

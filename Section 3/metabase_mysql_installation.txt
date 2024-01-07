@@ -1,0 +1,20 @@
+-- mysql metabase connection -- 
+Okay, now is the connection part. We want to connect metabase to database server. 
+Let's go to metabase. on the top right, you will see a gear button. 
+Click it and choose the admin option and we will come to a setup page. 
+Click the add database option and we will be brought to the database setting.
+As we can see, there are a lot of database services. 
+Let's choose the one that we have installed which is, my sequel. 
+For the display name, type in mySQL. For the host, let's type in localhost. 
+As we have gone through earlier. localhost mean this machine. 
+Okay, for port, we need to type in 3306. 
+This is because when we install the my sequel database earlier, we have registered my sequel database service as 3306 in our machine. 
+For the database, remember in our earlier chapter, we have created metabase database. now, let's us put metabase as database name here. 
+for user name, we can put root, and for the password, I put 1234 for my case. 
+Then, click the save and we are good to go. 
+if the connection cannot be established, you cannot save it. 
+check the database name. Make sure it is the same as what we have created in our database server. it is case sensitive. 
+Make sure the password is same as the one that we have setup for the database server.
+Make sure the database server is running from the database workbench by typing show databases.
+These are all the common mistakes that most people do.
+Once, the connection is established. let's us play with it by changing to user mode. let's exit the admin setting.

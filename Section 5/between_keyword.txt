@@ -1,0 +1,5 @@
+SELECT FirstName, LastName, Department, Salary
+FROM employees
+WHERE Salary BETWEEN 50000 AND 60000
+AND Department IN ('IT', 'Sales');
+

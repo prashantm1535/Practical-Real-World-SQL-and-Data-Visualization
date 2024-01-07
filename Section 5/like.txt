@@ -1,0 +1,8 @@
+SELECT
+    EmployeeID,
+    FirstName,
+    LastName,
+    Department,
+    Salary
+FROM employees
+WHERE FirstName LIKE 'J%';

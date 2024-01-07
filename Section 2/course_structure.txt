@@ -1,0 +1,31 @@
+In this course, What Will we Learn are sequel fundamental and data visualization. 
+
+in Sequel Fundamentals: 
+we will Understand the basics of relational databases and database management systems. 
+we will also Learn Sequel syntax, including SELECT, INSERT, UPDATE, and DELETE statements. 
+Next, we can discover how to query data, filter results, and join multiple tables. 
+beside, we will master data manipulation techniques using sequel functions and expressions. 
+
+in Data Visualization Essentials: 
+we will explore the significance of data visualization in decision-making and storytelling. 
+we will also Learn to choose the right visualization type for your data.  
+in addition, we will use popular and free data visualization tool to generate beautiful charts.  
+besides, we will create interactive and informative charts, graphs, and dashboards. 
+Moreover, we will be able to understand principles of effective data presentation and visual communication. 
+
+Why This Course Matters?
+first, it is good for your Career Advancement. Proficiency in sequel and data visualization opens up a world of career opportunities. It's a skill set that is highly valued by employers in various industries. 
+second, you gain the ability to make Data-Driven Decision. With the knowledge gained in this course, you'll be better equipped to make data-driven decisions and influence your organization's strategies. 
+third, you can have effective Communication with investors, top management and C level officer. Learn how to convey complex data insights in a clear and compelling manner through visualizations. 
+Also, you could get hands-On experience. The course includes practical exercises and projects to reinforce your learning and build a portfolio of work. 
+
+Who Should Take This Course? 
+this course will beneficial to data analyst, business professionals, aspiring data scientists, and anyone interested in data. 
+For Data Analysts. it will improve your data querying and visualization skills. 
+For Business Professionals: it will Enhance your ability to analyse and present data effectively. 
+For Aspiring Data Scientists: it will Build foundational skills in data management and visualization. 
+For Anyone Interested in Data: If you're curious about working with data, this course provides an excellent starting point. 
+
+Prerequisites: 
+there will be no prior experience with SQL or data visualization is required. This course is suitable for beginners. 
+if you are familiar with basic data concepts and computer usage, that will be helpful. 

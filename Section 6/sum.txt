@@ -1,0 +1,3 @@
+select 0.2 * SUM(transacted_price_dollar) as transacted_dollar
+from upload_property_transaction
+

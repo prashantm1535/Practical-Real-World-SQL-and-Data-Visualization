@@ -1,0 +1,58 @@
+About this course :
+
+Create Charts from real world data, analyse & derive business insights with 
+	1). Free Visualization Tool Metabase 
+	2). and My SQL.
+	
+
+Unlock the Power of Data with Data Visualization and SQL :
+
+	In a data-driven world, the keys to success lie in your ability to harness the potential of data which could worth million of dollars. 
+	However, if you don't have the skill-set to communicate with data, the data is just a hidden jewel. Therefore, this course introduces 
+	two essential tools that will revolutionize the way you communicate with data: 
+	Data Visualization and SQL.
+	
+Data Visualization:
+
+	1). Transform data into insights at a glance.
+	2). Communicate complex information effortlessly.
+	3). Drive innovation and make informed decisions.
+	4). Uncover hidden patterns and trends.
+
+SQL (Structured Query Language):
+
+	1). Retrieve, manipulate, and analyze data with precision.
+	2). Transform raw data into actionable insights.
+	3). Ensure data integrity and security.
+	4). Scale your data operations seamlessly.
+
+Why Embrace Data Visualization and SQL?
+
+	1). Empower yourself with tools that bridge the gap between data and decision-making.
+	2). Communicate your findings effectively to diverse audiences.
+	3). Gain actionable insights for better strategies and outcomes.
+	4). Spark innovation and discovery in your field.
+	5). Handle data of any size with confidence and ease.
+
+	Are you ready to transform data into a strategic asset? Elevate your skills and stay ahead in this data-driven era. 
+	Embrace the power of Data Visualization and SQL, and unlock new possibilities for your career and organization.
+	Get started today and take your data expertise to the next level!
+
+What you’ll learn
+	1). You can harness and derive meaningful insights from data. This will fuel your innovation by revealing new perspectives on data and 
+		facilitating discovery
+	2). You can enhances your communication with the C-level Officers, directors and investors through insightful charts.
+	3). You can provide actionable Insights and help stakholders making reasonable decisions because you can grasp complex data at a glance.
+	4). You can utilize SQL functions to transform raw data and unlock the treasure troves of data stored in databases.
+
+
+Are there any course requirements or prerequisites?
+	1). There will be no prior experience with SQL or data visualization is required. This course is suitable for beginners.
+	2). If you are familiar with basic data concepts and computer usage, that will be helpful.
+
+
+Who this course is for:
+	1). For Data Analysts : it will improve your data querying and visualization skills.
+	2). For Business Professionals: it will Enhance your ability to analyse and present data effectively.
+	3). For Data Scientists: it will Build foundational skills in data management and visualization.
+	4). For Anyone Interested in Data: if you're curious about working with data, this course provides an excellent starting point.

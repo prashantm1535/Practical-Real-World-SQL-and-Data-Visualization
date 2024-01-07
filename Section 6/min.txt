@@ -1,0 +1,4 @@
+select area_sqft, min(transacted_price_dollar) as min_transacted_dollar
+from upload_property_transaction
+group by area_sqft
+order by area_sqft asc
